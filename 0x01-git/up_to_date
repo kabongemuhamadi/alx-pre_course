@@ -1,0 +1,4 @@
+commands used are
+git checkout master
+git fetch origin
+git pull origin 
